@@ -4,7 +4,7 @@
 - 🌱 But now, I’m currently learning programming, I just started learning C language,so I will push some esay and Beginner's code~
 - 💞️ I’m looking to collaborate on C language and anything about programming!
 - 📫 How to reach me :
-- This is my e-mail: 453177150@qq.com   
+- This is my e-mail: songcy1205@gmail.com  
 - Welcome to send me messages !
 
 <!---
